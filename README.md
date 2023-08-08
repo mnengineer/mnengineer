@@ -12,8 +12,6 @@ Also, I've started developing personal applications using Flutter. I've also beg
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mnengineer&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Followers](https://badgen.org/img/zenn/masashiii/followers?style=flat)](https://zenn.dev/masashiii)
-
 # My Best Languages, Frameworks, and Tools
 
 <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,androidstudio,vscode,github" />
@@ -26,7 +24,10 @@ Also, I've started developing personal applications using Flutter. I've also beg
 
 <img src="https://skillicons.dev/icons?i=html,css,js,angular,vue,express,spring,postgresql,sqlite,mysql,androidstudio,vscode,github,firebase,figma,docker" />
 
-# Connect with me:
+# Other
 <p align="left">
 <a href="https://medium.com/@masashiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@masashiii" height="30" width="40" /></a>
 </p>
+
+[![Likes](https://badgen.org/img/zenn/masashiii/likes?style=flat)](https://zenn.dev/masashiii)
+[![Followers](https://badgen.org/img/zenn/masashiii/followers?style=flat)](https://zenn.dev/masashiii)  
