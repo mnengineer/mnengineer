@@ -1,8 +1,8 @@
 # About Me
 
-I'm Masashi, a 22-year-old freelance mobile engineer. I attended a computer science-focused high school and embarked on my engineer journey post high school graduation. Currently, I'm predominantly engaged in Android app development using Kotlin and working as a developer on projects including major convenience store chain apps and the Maas application.
+I'm Masashi, a 22-year-old freelance mobile engineer. I attended a high school for information technology and started my journey as an engineer after graduating from high school. Currently, my main focus is on Android app development using Kotlin. I'm in charge of adding functions and modifications to a major convenience store chain's own app, an apparel brand's official app, and most recently, developing a new Maas app.
 
-Lately, I've initiated the development of personal applications using Flutter, and I've also begun disseminating insights and technical information through technology-oriented platforms. I dedicate a minimum of 3 hours daily to coding endeavors. I'm profoundly intrigued by mobile app development, with a specific fondness for the Flutter.
+Recently, I've started developing personal applications using Flutter. I've also begun sharing insights and technical information through technology-oriented platforms. I commit at least 3 hours daily to coding. My passion lies in mobile app development, with a specific fondness for the Flutter.
 
 # My Status
 
