@@ -16,15 +16,15 @@ Also, I've started developing personal applications using Flutter. I've also beg
 
 # My Best Languages, Frameworks, and Tools
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,github,androidstudio,vscode" />
-
-# Programming Languages, Frameworks and Tools
-
-<img src="https://skillicons.dev/icons?i=html,css,js,angular,vue,express,spring,postgresql,sqlite,mysql,github,androidstudio,vscode,figma,firebase,docker" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,androidstudio,vscode,github" />
 
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+
+# Programming Languages, Frameworks and Tools
+
+<img src="https://skillicons.dev/icons?i=html,css,js,angular,vue,express,spring,postgresql,sqlite,mysql,androidstudio,vscode,github,firebase,figma,docker" />
 
 # Connect with me:
 <p align="left">
