@@ -22,7 +22,7 @@ Furthermore, I've started developing personal applications using Flutter. I've a
 
 # Programming Languages, Frameworks and Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,php,js,angular,vue,nodejs,express,spring,postgresql,sqlite,mysql,mongo,androidstudio,vscode,github,firebase,figma,docker" />
+<img src="https://skillicons.dev/icons?i=html,css,php,js,angular,vue,nodejs,express,spring,postgresql,sqlite,mysql,mongo,androidstudio,vscode,github,figma,docker" />
 
 # Other
 <p align="left">
