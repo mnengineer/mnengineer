@@ -8,15 +8,10 @@ Furthermore, I've started developing personal applications using Flutter. I've a
 
 ![Shota's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnengineer&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnengineer&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 # My Best Languages, Frameworks, and Tools
 
 <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,firebase,androidstudio,vscode,github" />
-
-# Others
-
-<img src="https://skillicons.dev/icons?i=html,css,php,js,angular,vue,nodejs,express,spring,postgresql,sqlite,mysql,mongo,androidstudio,vscode,github,figma,docker" />
+<img src="https://skillicons.dev/icons?i=html,css,php,js,angular,vue,nodejs,express,spring,postgresql,sqlite,mysql,figma,docker" />
 
 # Other
 <p align="left">
