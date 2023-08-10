@@ -14,7 +14,7 @@ Furthermore, I've started developing personal applications using Flutter. I've a
 
 # My Best Languages, Frameworks, and Tools
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,firebase,androidstudio,vscode,github" />
+<img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,firebase,androidstudio,vscode,github" />
 
 # Programming Languages, Frameworks and Tools
 
