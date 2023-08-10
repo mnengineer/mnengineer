@@ -15,9 +15,7 @@ Furthermore, I've started developing personal applications using Flutter. I've a
 
 # Other 
 
-<a href="https://app.daily.dev/masashi">
-  <img src="https://api.daily.dev/devcards/e211aec9a77545b391d88297c3e66e80.png?r=sp4" width="400" alt="masashi's Dev Card"/>
-</a>
+<a href="https://app.daily.dev/masashi"><img src="" width="400" alt="masashi's Dev Card"/></a>
 <br></br>
 
 
