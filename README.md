@@ -2,7 +2,7 @@
 
 I'm Masashi, a 22-year-old freelance mobile engineer. I attended a high school focused on information technology and began my journey as an engineer after graduating. Currently, my main focus is on Android app development using Kotlin. I've been involved in the development of own app for a prominent convenience store chain, an official app for an apparel brand, and others. Most recently, I've been working on a new MaaS app.
 
-Furthermore, I've started developing personal applications using Flutter. I've also begun sharing insights and technical information through technology-oriented platforms. I dedicate at least 3 hours daily to coding. My passion lies in mobile app development, with a particular fondness for Flutter.
+Furthermore, I've started developing personal applications using Flutter. I've also begun sharing insights and technical information through technology-oriented platforms. I dedicate at least 4 hours daily to coding. My passion lies in mobile app development, with a particular fondness for Flutter.
 
 # My Status
 
