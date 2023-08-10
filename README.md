@@ -8,14 +8,12 @@ Furthermore, I've started developing personal applications using Flutter. I've a
 
 ![Shota's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnengineer&show_icons=true&theme=vue-dark)
 
-# My Best Languages, Frameworks, and Tools
-
 <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,firebase,androidstudio,vscode,github" />
 <img src="https://skillicons.dev/icons?i=html,css,php,js,angular,vue,nodejs,express,spring,postgresql,sqlite,mysql,figma,docker" />
 
 # Other 
 
-<a href="https://app.daily.dev/masashi"><img src="" width="400" alt="masashi's Dev Card"/></a>
+<a href="https://app.daily.dev/masashi"><img src="https://github.com/mnengineer/mnengineer/blob/main/devcard.svg" width="400" alt="masashi's Dev Card"/></a>
 <br></br>
 
 
