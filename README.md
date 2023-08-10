@@ -13,10 +13,22 @@ Furthermore, I've started developing personal applications using Flutter. I've a
 <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,firebase,androidstudio,vscode,github" />
 <img src="https://skillicons.dev/icons?i=html,css,php,js,angular,vue,nodejs,express,spring,postgresql,sqlite,mysql,figma,docker" />
 
-# Other
-<p align="left">
-<a href="https://medium.com/@masashiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@masashiii" height="30" width="40" /></a>
-</p>
+# Other 
 
-[![Likes](https://badgen.org/img/zenn/masashiii/likes?style=flat)](https://zenn.dev/masashiii)
-[![Followers](https://badgen.org/img/zenn/masashiii/followers?style=flat)](https://zenn.dev/masashiii)  
+<a href="https://app.daily.dev/masashi">
+  <img src="https://api.daily.dev/devcards/e211aec9a77545b391d88297c3e66e80.png?r=sp4" width="400" alt="masashi's Dev Card"/>
+</a>
+<br></br>
+
+
+<p align="left"> 
+  <a href="https://medium.com/@masashiii">
+    <img height="20" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />
+  </a>
+  <a href="https://zenn.dev/masashiii">
+    <img height="20" src="https://badgen.org/img/zenn/masashiii/likes?style=flat" />
+  </a>
+  <a href="https://zenn.dev/masashiii">
+    <img height="20" src="https://badgen.org/img/zenn/masashiii/followers?style=flat" />
+  </a>
+</p>
