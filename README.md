@@ -18,13 +18,13 @@ Furthermore, I've started developing personal applications using Flutter. I've a
 
 
 <p align="left"> 
-  <a href="https://medium.com/@masashiii">
-    <img height="20" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />
-  </a>
   <a href="https://zenn.dev/masashiii">
     <img height="20" src="https://badgen.org/img/zenn/masashiii/likes?style=flat" />
   </a>
   <a href="https://zenn.dev/masashiii">
     <img height="20" src="https://badgen.org/img/zenn/masashiii/followers?style=flat" />
+  </a>
+  <a href="https://medium.com/@masashiii">
+    <img height="20" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />
   </a>
 </p>
