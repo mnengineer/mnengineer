@@ -6,7 +6,7 @@ Furthermore, I've started developing personal applications using Flutter. I've a
 
 # My Status
 
-![Shota's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnengineer&show_icons=true&theme=vue-dark)
+![Masashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnengineer&show_icons=true&theme=vue-dark)
 
 <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,firebase,androidstudio,vscode,github" />
 <img src="https://skillicons.dev/icons?i=html,css,php,js,angular,vue,nodejs,express,java,spring,postgresql,sqlite,mysql,figma,docker" />
