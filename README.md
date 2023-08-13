@@ -11,7 +11,6 @@ I'm Masashi, a freelance mobile app developer from <b>Tokyo, Japan</b>.
   - Ride-sharing platforms (Android)
   - Major convenience store chain apps (Android)
   - MaaS (Mobility as a Service) apps (Android)
-- 💙 I'm Flutter Lover 
  
 ### Where to find me
 <a href="https://github.com/mnengineer" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
