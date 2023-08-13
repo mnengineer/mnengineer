@@ -4,19 +4,18 @@ I'm Masashi, a 22-year-old freelance mobile engineer. I attended a high school f
 
 Furthermore, I've started developing personal applications using Flutter. I've also begun sharing insights and technical information through technology-oriented platforms. I dedicate at least 4 hours daily to coding. My passion lies in mobile app development, with a particular fondness for Flutter.
 
+# My Status 
+
+![Masashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnengineer&show_icons=true&theme=vue-dark&count_private=true)
+
 # Tech Stacks
 
 <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,firebase,androidstudio,vscode,github" />
 <img src="https://skillicons.dev/icons?i=html,css,php,js,angular,vue,nodejs,express,java,spring,postgresql,sqlite,mysql,figma,docker" />
 
-# My Status 
-
-![Masashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnengineer&show_icons=true&theme=vue-dark&count_private=true)
-
-<a href="https://app.daily.dev/masashi"><img src="https://github.com/mnengineer/mnengineer/blob/main/devcard.svg" width="180" alt="masashi's Dev Card"/></a>
-
-
 # Links 
+
+<a href="https://app.daily.dev/masashi"><img src="https://github.com/mnengineer/mnengineer/blob/main/devcard.svg" width="200" alt="masashi's Dev Card"/></a>
 
 <p align="left"> 
   <a href="https://zenn.dev/masashiii">
