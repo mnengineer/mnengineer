@@ -1,8 +1,15 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1>Hi there! I'm Masashi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-<p>Welcome to my page! </br> I'm Masashi</b>.
+### Mobile Engineer
 
-<h3>Where to find me</h3>
+- 🔭 I’m currently working on: Android Engineering
+- 📖 I’m currently developing a personal app with: Flutter & Firebase
+- 📱 Freelance Projects:
+  - Food waste reduction apps (Android)
+  - Apparel store attraction apps (Android)
+  - Ride-sharing platforms (Android)
+  - Major convenience store chain apps (Android)
+  - MaaS (Mobility as a Service) apps (Android)
 
 # My Status 
 
