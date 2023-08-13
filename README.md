@@ -3,8 +3,8 @@
 I'm Masashi, a freelance mobile app developer from <b>Tokyo, Japan</b>.
 
 ### About me
-- 🔭 I’m currently working on: Android Engineering
-- 🧑‍💻 I’m currently developing a personal app with: Flutter/Dart & Firebase
+- 🧑‍💻 I’m currently working on: Android Engineering
+- 🔭 I’m currently developing a personal app with: Flutter/Dart & Firebase
 - 📱 Freelance Projects:
   - Food waste reduction apps (Android)
   - Apparel store attraction apps (Android)
