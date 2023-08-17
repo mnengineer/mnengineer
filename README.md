@@ -25,4 +25,4 @@ I'm Masashi, a freelance mobile app developer from <b>Tokyo, Japan</b>.
 ### My Status 
 <a href="https://app.daily.dev/masashi"><img src="https://github.com/mnengineer/mnengineer/blob/main/devcard.svg" width="270" alt="masashi's Dev Card"/></a>
 
-![Masashi's GitHub stats](https://github-readme-stats-lemon-sigma.vercel.app/api?username=mnengineer&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)
+![Masashi's GitHub stats](https://github-readme-stats-lemon-sigma.vercel.app/api?username=mnengineer&show_icons=true&theme=tokyonight)
