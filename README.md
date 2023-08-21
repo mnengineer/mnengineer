@@ -18,7 +18,6 @@ I'm Masashi (22), a freelance mobile app developer from <b>Tokyo, Japan</b>.
 <a href="https://zenn.dev/masashiii" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=for-the-badge&logo=Zenn&logoColor=white" /></a>
 
 ### Tech stacks
-
 <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,firebase,androidstudio,vscode,github" />
 <img src="https://skillicons.dev/icons?i=html,css,php,js,angular,vue,nodejs,express,java,spring,postgresql,sqlite,mysql,figma,docker" />
 
