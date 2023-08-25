@@ -15,6 +15,7 @@ I'm Masashi (22), a freelance mobile app developer from <b>Tokyo, Japan</b>.
 ### Where to find me
 <a href="https://github.com/mnengineer" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://medium.com/@masashiii" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://dev.to/mnengineer" target="_blank"><img alt="Dev" src="https://img.shields.io/badge/Dev-%2312100E.svg?&style=for-the-badge&logo=Dev&logoColor=white" /></a>
 <a href="https://zenn.dev/masashiii" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=for-the-badge&logo=Zenn&logoColor=white" /></a>
 
 ### Tech stacks
