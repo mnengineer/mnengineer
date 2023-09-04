@@ -2,7 +2,7 @@
 
 I'm Masashi (22), a freelance mobile app developer from <b>Tokyo, Japan</b>.
 
-## About me
+### About me
 - 🧑‍💻 I’m currently working on: Android Engineering
 - 🔭 I’m currently developing a personal app with: Flutter & Firebase
 - 📱 Freelance Projects:
@@ -12,16 +12,16 @@ I'm Masashi (22), a freelance mobile app developer from <b>Tokyo, Japan</b>.
   - Major convenience store chain apps (Android)
   - MaaS (Mobility as a Service) apps (Android)
  
-## Where to find me
+### Where to find me
 <a href="https://zenn.dev/masashiii" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=for-the-badge&logo=Zenn&logoColor=white" /></a>
 <a href="https://medium.com/@masashiii" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://dev.to/mnengineer" target="_blank"><img alt="Dev" src="https://img.shields.io/badge/Dev-%2312100E.svg?&style=for-the-badge" /></a>
 
-## Tech stacks
+### Tech stacks
 <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,firebase,androidstudio,vscode,github" />
 <img src="https://skillicons.dev/icons?i=html,css,php,js,angular,vue,nodejs,express,java,spring,postgresql,sqlite,mysql,figma,docker" />
 
-## My Status 
+### My Status 
 <a href="https://app.daily.dev/masashi"><img src="https://github.com/mnengineer/mnengineer/blob/main/devcard.svg" width="270" alt="masashi's Dev Card"/></a>
 
 ![Masashi's GitHub stats](https://github-readme-stats-lemon-sigma.vercel.app/api?username=mnengineer&show_icons=true&theme=tokyonight)
