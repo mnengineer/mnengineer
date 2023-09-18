@@ -6,11 +6,11 @@ I'm Masashi (22), a freelance mobile app developer from <b>Tokyo, Japan</b>.
 - 🧑‍💻 I’m currently working on: Android Engineering
 - 🔭 I’m currently developing a personal app with: Flutter & Firebase
 - 📱 Freelance Projects:
-  - Food waste reduction apps ( Kotlin/Android )
-  - Apparel store attraction apps ( Kotlin/Android )
-  - Ride-sharing platforms ( Kotlin/Android )
-  - Major convenience store chain apps ( Kotlin/Android )
-  - MaaS (Mobility as a Service) apps ( Kotlin/Android )
+  - Food waste reduction apps ( Kotlin / Android )
+  - Apparel store attraction apps ( Kotlin / Android )
+  - Ride-sharing platforms ( Kotlin / Android )
+  - Major convenience store chain apps ( Kotlin / Android )
+  - MaaS (Mobility as a Service) apps ( Kotlin / Android )
  
 ### Where to find me
 <a href="https://medium.com/@masashiii" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
