@@ -17,11 +17,11 @@ jobs:
         with:
           SHARE_ID: "DKNYY2M"
           UPDATE_TIME: "false"
+          LANG: "en"
           # 以下オプション
           # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能
           # ICON_FIRST: "#030E21"
           # ICON_SECOND: "#1688BF"
           # BACKGROUND_FIRST: "#020E27"
           # BACKGROUND_SECOND: "#0E5593"
-          # LANG: "ja"
           # CARD_WIDTH: "400"
