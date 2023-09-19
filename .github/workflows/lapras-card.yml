@@ -16,6 +16,7 @@ jobs:
       - uses: kawamataryo/lapras-card-readme@main
         with:
           SHARE_ID: "DKNYY2M"
+          UPDATE_TIME: "false"
           # 以下オプション
           # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能
           # ICON_FIRST: "#030E21"
@@ -24,4 +25,3 @@ jobs:
           # BACKGROUND_SECOND: "#0E5593"
           # LANG: "ja"
           # CARD_WIDTH: "400"
-          # UPDATE_TIME: "true"
