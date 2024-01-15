@@ -19,7 +19,7 @@ I'm Masashi (22), a freelance mobile app developer from <b>Tokyo, Japan</b>.
 
 ### Tech stacks
 <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,firebase,androidstudio,vscode,github" />
-<img src="https://skillicons.dev/icons?i=html,css,php,js,typescript,react,angular,vue,nodejs,express,java,spring,postgresql,sqlite,mysql,figma,docker" />
+<img src="https://skillicons.dev/icons?i=html,css,php,js,typescript,react,nodejs,express,java,spring,postgresql,sqlite,mysql,figma,docker" />
 
 ### My Status
 ![Masashi's GitHub stats](https://github-readme-stats-lemon-sigma.vercel.app/api?username=mnengineer&show_icons=true&theme=tokyonight)
