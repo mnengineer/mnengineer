@@ -29,6 +29,6 @@ I'm Masashi (23), a freelance mobile app developer from <b>Tokyo, Japan</b>.
   <p></p>
   <p><a href="https://app.daily.dev/masashi"><img src="https://github.com/mnengineer/mnengineer/blob/main/devcard.svg" width="270" alt="masashi's Dev Card"/></a></p>
   <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/DKNYY2M" target="_blank" rel="noopener noreferrer"><img alt="DKNYY2M's scores on LAPRAS are as follows: Engineering: 3.47 out of 5.0, Business: 3.36 out of 5.0, Influence: 2.8 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.47&b=3.36&i=2.8&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a></p>
+<p ><a href="https://lapras.com/public/DKNYY2M" target="_blank" rel="noopener noreferrer"><img alt="DKNYY2M's scores on LAPRAS are as follows: Engineering: 3.47 out of 5.0, Business: 3.36 out of 5.0, Influence: 3.28 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.47&b=3.36&i=3.28&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a></p>
 <!--END_SECTION:lapras-card-->
 </details>
